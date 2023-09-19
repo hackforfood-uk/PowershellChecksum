@@ -16,3 +16,7 @@ All script actions are logged in the log directory - again this is customiseable
 **Disclaimer**
 
 You use this script at your own risk.
+
+**Support / Contact**
+
+Please feel free to create an issue or message me - I cannot garauntee I will always been able to reply but any suggestions changes please let me know.
